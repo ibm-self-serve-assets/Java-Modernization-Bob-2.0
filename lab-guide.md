@@ -40,7 +40,17 @@ In this lab, we will take a **Legacy Struts 1.3** application whose documentatio
 ### 2.1 IBM Bob IDE
 Install and configure IBM Bob. Follow instructions from [https://bob.ibm.com/docs/ide/getting-started/install](https://bob.ibm.com/docs/ide/getting-started/install).
 
-### 2.2 Optional Dependencies:
+### 2.2 IBM Bob Premium Package for Java Modernization
+Access to IBM Bob Premium Package for Java Modernization is required to use the **Java Modernization** workflow. Ensure your IBM Bob instance has the premium package activated before proceeding with the lab steps.
+
+Please verify in your Bob Settings that you are able to see options in the **"Team"** dropdown and it shows access to IBM Bob Premium package upon selecting the appropriate team.
+
+![Bob Settings – Premium Package](images/bob-settings-premium.png)
+
+### 2.3 Bobcoins
+A minimum of **100 Bobcoins** must be available in your account to complete this lab. Bobcoins are consumed as Bob performs analysis, code generation, and modernization tasks throughout the lab.
+
+### 2.4 Optional Dependencies:
 1. install `openjdk-17-jdk` package
 ```sh
 # MacOS
@@ -71,7 +81,7 @@ curl -sL https://get.sdkman.io | sudo bash
 curl -sL https://get.sdkman.io | sudo bash
 ```
 
-### 2.3 Install PlantUML Plugin
+### 2.5 Install PlantUML Plugin
 Install the **“PlantUML Markdown Preview”** extension on IBM Bob IDE.
 1. Click on the ‘Extensions’ icon.
 2. Search for “PlantUML”.
@@ -80,7 +90,7 @@ Install the **“PlantUML Markdown Preview”** extension on IBM Bob IDE.
 ![Extension: PlantUML Markdown Preview](images/image1.png)
 
 
-### 2.4 Demo Application
+### 2.6 Demo Application
 We are using a legacy-style netbanking application built with:
 * **Java 8** (no newer language features)
 * **Apache Struts 1.x** (Action, ActionForm, struts-config.xml)

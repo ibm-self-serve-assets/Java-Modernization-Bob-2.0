@@ -28,8 +28,10 @@ Transform a **Legacy Struts 1.3** application to a modern **Spring Boot 3.x + Re
 
 Before starting the lab, ensure you have:
 1. IBM Bob IDE installed and configured
-2. PlantUML Markdown Preview extension installed
-3. Basic understanding of Java and web applications
+2. Access to IBM Bob Premium Package for Java Modernization
+3. At least 100 Bobcoins available in your account
+4. PlantUML Markdown Preview extension installed
+5. Basic understanding of Java and web applications
 
 ## Quick Start
 
