@@ -39,7 +39,14 @@ In this lab, we will take a **Legacy Struts 1.3** application whose documentatio
 ## 2. Pre-requisites
 ### 2.1 IBM Bob IDE
 Install and configure IBM Bob. Follow instructions from [https://bob.ibm.com/docs/ide/getting-started/install](https://bob.ibm.com/docs/ide/getting-started/install).
+### 2.2 IBM Premium access required 
+### 2.3 Around 100 BobCoins are required
+### To verify Java Modernization Premium Package. 
+1. Click on the Bob Settings Icon.
+![Bob Settings](images/newimage3.png)
 
+2. Select the account which has Java Modernization Premium Package. You should see the Add ons mention the premium pacakage name.
+![Java Mod](images/newimage4.png)
 ### 2.2 Optional Dependencies:
 1. install `openjdk-17-jdk` package
 ```sh
@@ -125,7 +132,7 @@ The folder structure should appear as follows:
 
 ![Processing Tasks](images/newimage7.png)
 
-5. **Review Artifacts:**
+4. **Review Artifacts:**
    - Right-click the generated `.md` file and select **‘Open Preview’**.
 
 ![Open Preview Documentation](images/newimage8.png)
@@ -196,10 +203,10 @@ Select Java Upgrade and Disable Gitflow.
 
 3. Approve the To-do List. Bob will analyze the application to explore modernization options.
 ![To-do List](images/newimage24.png) 
-![Approve](images/newimages25.png)
+![Approve](images/newimage25.png)
 
 4. Once the analysis is completed. You should see a form. Select both "Frontend Modernization" and "Backend Modernization".
-![Configure](images/newimages26.png) 
+![Configure](images/newimage26.png) 
 
 5. Create the folders to store the frontend and backend code. Open a terminal within the `legacy-netbanking` directory and run the follwing commands. 
 ```
