@@ -12,8 +12,9 @@ To perform the lab, please refer to the comprehensive lab guide:
 
 In this lab, you will:
 - Experience IBM Bob features and capabilities
-- Understand Bob built-in modes, custom modes, and MCP extensibility
 - Explore Bob's comprehensive SDLC capabilities with a legacy Java application modernization use-case
+- Experience the capabilities of IBM Bob Premium package for Java modernization
+- Understand Bob built-in modes, custom modes, and MCP extensibility
 
 ## Lab Overview
 
@@ -28,8 +29,9 @@ Transform a **Legacy Struts 1.3** application to a modern **Spring Boot 3.x + Re
 
 Before starting the lab, ensure you have:
 1. IBM Bob IDE installed and configured
-2. PlantUML Markdown Preview extension installed
-3. Basic understanding of Java and web applications
+2. Access to IBM Premium Package for Java Modernization 
+3. PlantUML Markdown Preview extension installed
+4. Basic understanding of Java and web applications
 
 ## Quick Start
 
@@ -40,6 +42,7 @@ Before starting the lab, ensure you have:
 ## Contributors
 
 Anand Awasthi (anand.awasthi@in.ibm.com)
-
+Suyash Gupte ( suyash.gupte2@ibm.com )
+Sameer Khedkar ( samkhedk@in.ibm.com)
 ---
 For detailed instructions, troubleshooting, and best practices, see the [Lab Guide](lab-guide.md).

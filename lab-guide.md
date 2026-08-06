@@ -25,6 +25,8 @@
 * Experience IBM Bob features and capabilities.
 * Understand Bob built-in modes, custom modes and MCP extensibility.
 * Explore Bob’s comprehensive SDLC capabilities with a legacy Java application modernization use-case.
+* Experience the capabilities of IBM Bob Premium package for Java modernization
+
 
 In this lab, we will take a **Legacy Struts 1.3** application whose documentation is not available and will perform the following activities:
 * **Reverse Engineer** the legacy code to generate comprehensive documentation, architecture diagrams, ER diagrams, and UML diagrams.
@@ -39,8 +41,9 @@ In this lab, we will take a **Legacy Struts 1.3** application whose documentatio
 ## 2. Pre-requisites
 ### 2.1 IBM Bob IDE
 Install and configure IBM Bob. Follow instructions from [https://bob.ibm.com/docs/ide/getting-started/install](https://bob.ibm.com/docs/ide/getting-started/install).
-### 2.2 IBM Premium access required 
+### 2.2 Access to IBM Premium package for Java moderniation
 ### 2.3 Around 100 BobCoins are required
+
 ### To verify Java Modernization Premium Package. 
 1. Click on the Bob Settings Icon.
 ![Bob Settings](images/newimage3.png)
@@ -109,6 +112,10 @@ This lab showcases the complete journey from legacy Struts 1.x + SQLite to moder
 
 ### 4.1 Import Project into Bob Workspace
 1. Download the ‘java-modernization-demo’ from [https://github.com/ibm-self-serve-assets/java-modernization-lab](https://github.com/ibm-self-serve-assets/java-modernization-lab).
+Alternatively you can use Bob to clone the repository to your local machine.
+
+clone https://github.com/ibm-self-serve-assets/Java-Modernization-Bob-2.0 to <local folder>
+
 2. Go to IBM Bob and open the folder `java-modernization-demo`.
 
 ![Importing Project](images/image2.png)
