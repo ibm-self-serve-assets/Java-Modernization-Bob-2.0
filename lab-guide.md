@@ -4,6 +4,7 @@
 | Version | Primary Author(s) | Description of Version | Reviewer | Date Completed |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | WW Service Engineering Lab | Initial Version | | 03/27/2026 |
+| 1.1 | WW Service Engineering Lab | Bob 2.0 and Premium Package updates | | 05/08/2026 |
 
 ## Contents
 1. [About this Lab](#1-about-this-lab)
