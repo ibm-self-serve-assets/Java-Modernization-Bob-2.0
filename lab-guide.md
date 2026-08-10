@@ -61,6 +61,7 @@ sudo apt update
 sudo apt install openjdk-17-jdk
 # RHEL
 sudo dnf install java-17-openjdk-devel
+# Windows : Refer https://www.oracle.com/jp/java/technologies/downloads/#java17-windows to install
 ```
 2. install `maven` package
 ```sh
@@ -71,6 +72,9 @@ sudo apt update
 sudo apt install maven
 # RHEL
 sudo dnf install maven
+# Windows
+choco install maven
+# Refer https://chocolatey.org/install#individual to install chocolatey
 ```
 3. install `sdkman` package
 ```sh
