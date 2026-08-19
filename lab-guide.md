@@ -257,7 +257,7 @@ mkdir backend
 ![Frontend Migration SubTask 2](images/newimage35.png)
 ![Frontend Migration SubTask 3](images/newimage36.png)
 
-14. Check the application in Browser. For Login use Username: admin and Password: `<password>`. Perform a Fund transfer to Account : ACC1001
+14. Check the application in Browser. For Login use Username: admin and Password: admin123. Perform a Fund transfer to Account : ACC1001
 ![UI](images/newimage37.png)
 
 15. The modernization is complete now.
