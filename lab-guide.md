@@ -119,7 +119,7 @@ This lab showcases the complete journey from legacy Struts 1.x + SQLite to moder
 1. Download the ‘Java-Modernization-Bob-2.0’ from [https://github.com/ibm-self-serve-assets/Java-Modernization-Bob-2.0](https://github.com/ibm-self-serve-assets/Java-Modernization-Bob-2.0).
 Alternatively you can use Bob to clone the repository to your local machine.
 
-git clone https://github.com/ibm-self-serve-assets/Java-Modernization-Bob-2.0 to <local folder>
+Run ```git clone https://github.com/ibm-self-serve-assets/Java-Modernization-Bob-2.0``` to clone the repo to a local folder
 
 2. Go to IBM Bob and open the folder `Java-Modernization-Bob-2.0`.
 
